@@ -24,37 +24,32 @@
 ### 1. Clone the Repo
 ```bash
 git clone https://github.com/yourusername/chartwhisperer.git
-cd chartwhisperer
-
-2. Create and Activate Virtual Environment
-bash
-Copy
-Edit
-
+cd chartwhisperer 
+```
+### 2. Create and Activate Virtual Environment
+```bash
 python -m venv venv
 source venv/bin/activate  # On Windows: .\venv\Scripts\activate
+```
 
-3. Install Requirements
+### 3. Install Requirements
+```bash
 pip install -r requirements.txt
+```
 
-
-4. Add Your API Key
+### 4. Add Your API Key
 Create a .env file in the root directory:
-
-env
-Copy
-Edit
+```bash
 GOOGLE_API_KEY=your_google_gemini_api_key_here
+```
 
 You can generate your API key here:
 👉 https://makersuite.google.com/app/apikey
 
 ▶️ Run the App
-bash
-Copy
-Edit
-
+```bash
 streamlit run app.py
+```
 
 🧠 Example Use Cases
 Explain dashboards for stakeholders
