@@ -15,7 +15,7 @@
 
 ## 🖼️ Demo
 
-![screenshot](./screenshot.png)
+<img width="259" alt="output1" src="https://github.com/user-attachments/assets/71903d43-2112-4f80-90cb-497306c75d43" />
 
 ---
 
